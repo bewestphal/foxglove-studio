@@ -1,6 +1,7 @@
 *.log
 *.tsbuildinfo
 .DS_Store
+.idea/
 .webpack/
 ci/apt/packages
 dist/
